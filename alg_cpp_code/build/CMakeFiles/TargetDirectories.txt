@@ -1,7 +1,0 @@
-/home/hl/github/data-structure/alg_cpp_code/build/CMakeFiles/rebuild_cache.dir
-/home/hl/github/data-structure/alg_cpp_code/build/CMakeFiles/edit_cache.dir
-/home/hl/github/data-structure/alg_cpp_code/build/demo/CMakeFiles/rebuild_cache.dir
-/home/hl/github/data-structure/alg_cpp_code/build/demo/CMakeFiles/edit_cache.dir
-/home/hl/github/data-structure/alg_cpp_code/build/demo/CMakeFiles/test_binaryTree.dir
-/home/hl/github/data-structure/alg_cpp_code/build/demo/CMakeFiles/array_struct_pointer.dir
-/home/hl/github/data-structure/alg_cpp_code/build/demo/CMakeFiles/test_avl.dir

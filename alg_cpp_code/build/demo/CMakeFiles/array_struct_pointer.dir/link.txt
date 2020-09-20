@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/array_struct_pointer.dir/array_struct_pointer.cpp.o  -o ../../bin/array_struct_pointer 

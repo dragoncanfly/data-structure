@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/avl.hpp
+algorithm
+-
+stdio.h
+-
+
+/home/hl/github/data-structure/alg_cpp_code/demo/test_avl.cpp
+cstdio
+-
+iostream
+-
+avl.hpp
+/home/hl/github/data-structure/alg_cpp_code/demo/avl.hpp
+
